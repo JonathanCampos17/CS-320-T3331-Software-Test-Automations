@@ -1,1 +1,7 @@
 # CS-320-T3331-Software-Test-Automations
+
+How can I ensure that my code, program, or software is functional and secure?
+How do I interpret user needs and incorporate them into a program?
+How do I approach designing software?
+
+There are a few steps I took to ensure I was able to secure and functional code. When coding methods I focused on writing clean code and followed best practices with today's coding standards such as leaving comments when needed. I have learned that the use of testing frameworks such as JUNIT can improve your programming skills and possibly help cut costs to a client, as you will focus on creating thorough test cases. When interpreting the neeeds of a user it is always best to tackle the tasks that have the higher prioritization. Being able to accept user feedback to improve the software can help you as a developer to recongize your mistakes and to build your skills. It is also important to test and iterate the software whenever there is a change to the code to ensure the service meets the users needs. When approaching the design of a software, you first need to acquire the requirements from the stakeholders and their expectations on the time they would like the application to be completed. You also want to be able to have a clear communication line, as stakeholders may want to change a process after every iteration. As you develop a application, you want to approach solutions with a user-centered design. You should be able to design a software that is intuitive and easy to use.
